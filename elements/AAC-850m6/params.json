@@ -1,0 +1,30 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 180,
+        "width": 120
+    },
+    "display": "marque",
+    "fields": {
+        "AAG": {
+            "caption": "name",
+            "default_val": "sikendra",
+            "editor": "DynamicValue",
+            "name": "name",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "states": {
+        "AAF": {
+            "caption": "result",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "result",
+            "value": "text"
+        }
+    }
+}
